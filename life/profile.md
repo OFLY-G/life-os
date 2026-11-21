@@ -36,3 +36,4 @@
 | 旧版个人主档 | ChatGPT 生成的《个人AI主档 v0.1.md》（有的话放进 `life/`，Claude 会合并进来） |
 | vLLM-Omni 调查笔记 | Codex 云端：`contribution-notes/vllm-omni/`（摘要已整理进 `study/projects/vllm-omni.md`） |
 | 技术博客 | https://dlog.com.cn/（推理框架和「手撕算子」都在这里学） |
+| 日历 | Google Calendar（主日历）。Claude 建的期末事件，描述里都带「life-os 期末计划」 |

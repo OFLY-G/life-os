@@ -8,7 +8,6 @@
 - [ ] MLA / MoE 算子 → 停车
 - [ ] 导出旧资料放进仓库（考完再做，10 分钟）：ChatGPT 的《个人AI主档 v0.1.md》、Codex 的 `contribution-notes/vllm-omni/HANDOFF.md` 和 `INVESTIGATION.md`
 - [ ] 补信息：5 门课的课名（目前只有代码）、打算什么时候开始投实习、自习活动的时间地点、vLLM-Omni 主理人的名字
-- [ ] 接日历（5 分钟）：在 https://claude.ai/customize/connectors 连接 Google Calendar（能读也能写），或者 Microsoft 365（NTU 的 Outlook，学校账号可能要申请）。连好后新开一个会话，/today 就能读到固定安排
-
 ## 已处理
 （/week 时把处理过的条目移到这里，写明去向）
+- [x] 接日历：2026-11-21 已连接 Google Calendar，期末日程已写入 → 规则见 CLAUDE.md「日历」
