@@ -3,6 +3,7 @@
 > 新方向要先过方向锁（`career/direction.md`）的 3 个条件。
 
 ## 未处理
+- [ ] 远景：做「刀剑神域」——能实时对话、实时反应的沉浸式世界（2026-11-27 提出）。不是现在的方向，不展开。和主线的关系：实时多模态推理（vLLM-Omni / Qwen3-Omni）、实时世界模型（11/13 Meetup 有一场分享）都是它的地基。/week 时决定要不要写进 `career/direction.md` 当远景
 - [ ] vllm-metal（Apple Silicon 插件）：M5 Air 能当开发机，但要先装完整 Xcode + Metal Toolchain；10 月查的 3 个候选（#1335/#1336/#1337）已有 open PR 在修 → 停车
 - [ ] GEMM 深挖（MMA / TMA / warp 特化 / SM100 / PTX-SASS）→ 停车，等 PR3 真的需要再说
 - [ ] MLA / MoE 算子 → 停车
